@@ -10,7 +10,7 @@ atoti = {extras = ["jupyterlab", "kafka", "aws", "azure", "gcp"], version = "^0.
 wget = "^3.2"
 treelib = "^1.6.1"
 nltk = "^3.6.2"
-textblob = "^0.15.3"
+textblob = "^0.17.1"
 mxnet = "1.6.0"
 matplotlib = "^3.4.2"
 gluonts = "^0.7.5"
